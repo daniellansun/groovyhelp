@@ -11,5 +11,7 @@ Thoughts on API Documentations
 4. Add all sorts of API documentations(e.g. Documentations of Java 1.4+, Apache-Commons, Spring, iBatis, Hibernate and so on, *the API documentations have to be downloaded by yourself*) to GroovyHelp, which will build index for them.
 5. Type keywords to search and view.
 
+Click the following link for more details: https://blog.sunlan.me/2023/01/27/GroovyHelp%E4%B9%8B%E6%80%80%E6%97%A7%E5%BD%92%E6%A1%A3%E7%AF%87/
+
 ## Important Note
 GroovyHelp just supports Javadoc 1.4~8
